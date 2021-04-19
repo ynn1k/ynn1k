@@ -1,14 +1,28 @@
 <h1>Hi GitHub 👋</h1>
-<p align="center">
+<p>
   <samp>
     I'm Yannik. CEO of <a href="https://github.com/go-yeets" target="_blank">Yeets!</a>, a Design & Web Development agency based in Germany.
-    <br>
-    📫
-    <br>
-    <a href="https://twitter.com/ynn1k">Twitter</a> || 
-    <a href="mailto:&#x68;&#x69;&#x40;&#x79;&#x61;&#x6e;&#x6e;&#x69;&#x6b;&#x2e;&#x64;&#x65;&#x76;">Email</a>
   </samp>
-<br><br>
+</p>
+<p>
+  <ul>
+    <li>
+      I’m currently working on: YeetPages 👀
+    </li>
+    <li>
+      I’m currently learning: PHP
+    </li>
+    <li>
+      Fun fact: Doing it for the fun 🙃
+    </li>
+  </ul>
+</p>
+<p>
+📫
+<br>
+🐦 <a href="https://twitter.com/ynn1k">Twitter</a> || 📧 <a href="mailto:&#x68;&#x69;&#x40;&#x79;&#x61;&#x6e;&#x6e;&#x69;&#x6b;&#x2e;&#x64;&#x65;&#x76;">Email</a>
+</p>
+<p>
     <img src="https://visitor-badge.glitch.me/badge?page_id=ynn1k" alt="Visitors Counter">
 </p>
 
