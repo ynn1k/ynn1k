@@ -7,10 +7,10 @@
 <p>
   <ul>
     <li>
-      I’m currently working on: a lots of different web stuff 👀
+      I’m currently working on: a lot of different web stuff 👀
     </li>
     <li>
-      I’m currently learning: nothing in particular - but interested in Vue & PHP
+      I’m currently learning: nothing in particular - but interested in Vue/React & PHP
     </li>
     <li>
       Fun fact: Doing it for the fun 🙃
