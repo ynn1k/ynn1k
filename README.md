@@ -1,19 +1,22 @@
 <h1>Hi GitHub 👋</h1>
 <p>
   <samp>
-    I'm Yannik. CEO of <a href="https://github.com/go-yeets" target="_blank">Yeets!</a>, a Design & Web Development agency based in Germany.
+    I'm Yannik. CEO of <a href="https://github.com/go-yeets" target="_blank">Yeets!</a>, a Design & Web Development agency based in Germany. ...to the muun! 🌒
   </samp>
 </p>
 <p>
   <ul>
     <li>
-      I’m currently working on: a lot of different web stuff 👀
+      I'm currently working on: too many different web things 👀 including: a Grav CMS toolkit; Shopify; Firebase; ...
     </li>
     <li>
-      I’m currently learning: nothing in particular - but interested in Vue/React & PHP
+      I'm currently learning: nothing in particular - but interested in getting into Vue/React & NodeJs
     </li>
     <li>
-      Fun fact: Doing it for the fun 🙃
+      Fun fact: I'm doing it for the fun and for learning new things 🙃
+    </li>
+    <li>
+      Passion for space 🌌🚀
     </li>
   </ul>
 </p>
