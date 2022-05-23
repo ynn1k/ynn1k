@@ -1,4 +1,4 @@
-<h1>Hi GitHub 👋</h1>
+![👋](https://user-images.githubusercontent.com/28714546/169823196-7fb65d0b-d8f7-4f70-994f-2f1a1996e877.gif)
 <p>
   <samp>
     I'm Yannik. CEO of <a href="https://github.com/go-yeets" target="_blank">Yeets!</a>, a Design & Web Development agency based in Germany. ...to the muun! 🌒
