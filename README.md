@@ -7,24 +7,39 @@
 <p>
   <ul>
     <li>
-      I'm currently working on: too many different web things 👀 including: a Grav CMS toolkit; Shopify; Firebase; ...
+      Working on too many different things...
     </li>
     <li>
-      I'm currently learning: nothing in particular - but interested in getting into Vue/React & NodeJs
+      <b>TODO's:</b>
+      <ul>
+        <li>learn React 🔄</li>
+        <li>get stuff done with Ruby 🔄</li>
+        <li>make sure the stuff keeps working by writing tests 🔄</li>
+        <li>try someting with NodeJS</li>
+        <li>get more into PHP</li>
+      </ul>
+      <b>DONE:</b>
+      <ul>
+        <li>PHP ✅</li>
+        <li>Twig, Liquid, Handlebars ✅</li>
+        <li>Grav, WordPress, Typo3 ✅</li>
+        <li>HTML, CSS/Sass, JavaScript ✅</li>
+      </ul>
     </li>
     <li>
-      Fun fact: I'm doing it for the fun and for learning new things 🙃
-    </li>
-    <li>
-      Passion for space 🌌🚀
+      side fact: space fanatic 🌌🚀
     </li>
   </ul>
+</p>
+<p>
+I'm doing it for the fun and for learning new things - be kind 🙏🏻
 </p>
 <p>
 📫
 <br>
 🐦 <a href="https://twitter.com/ynn1k">Twitter</a> || 📧 <a href="mailto:&#x68;&#x69;&#x40;&#x79;&#x61;&#x6e;&#x6e;&#x69;&#x6b;&#x2e;&#x64;&#x65;&#x76;">Email</a>
 </p>
+
 <p>
     <img src="https://visitor-badge.glitch.me/badge?page_id=ynn1k" alt="Visitors Counter">
 </p>
