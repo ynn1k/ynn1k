@@ -1,47 +1,23 @@
 ![👋](https://user-images.githubusercontent.com/28714546/169823196-7fb65d0b-d8f7-4f70-994f-2f1a1996e877.gif)
+<h1>...to the muun! 🌒</h1>
 <p>
-  <samp>
-    I'm Yannik. CEO of <a href="https://github.com/go-yeets" target="_blank">Yeets!</a>, a Design & Web Development agency based in Germany. ...to the muun! 🌒
-  </samp>
-</p>
-<p>
-  <ul>
-    <li>
-      Working on too many different things...
-    </li>
-    <li>
-      <b>TODO's:</b>
-      <ul>
-        <li>learn React 🔄</li>
-        <li>get stuff done with Ruby 🔄</li>
-        <li>make sure the stuff keeps working by writing tests 🔄</li>
-        <li>try someting with NodeJS</li>
-        <li>get more into PHP</li>
-      </ul>
-      <b>DONE:</b>
-      <ul>
-        <li>PHP ✅</li>
-        <li>Twig, Liquid, Handlebars ✅</li>
-        <li>Grav, WordPress, Typo3 ✅</li>
-        <li>HTML, CSS/Sass, JavaScript ✅</li>
-      </ul>
-    </li>
-    <li>
-      side fact: space fanatic 🌌🚀
-    </li>
-  </ul>
-</p>
-<p>
-I'm doing it for the fun and for learning new things - be kind 🙏🏻
-</p>
-<p>
-📫
-<br>
-🐦 <a href="https://twitter.com/ynn1k">Twitter</a> || 📧 <a href="mailto:&#x68;&#x69;&#x40;&#x79;&#x61;&#x6e;&#x6e;&#x69;&#x6b;&#x2e;&#x64;&#x65;&#x76;">Email</a>
+  I am focused on Frontend development and UI/UX design. <br>
+  <a href="https://yeets.de" target="_blank">Yeets!</a>, a Design & Web Development agency, is a side business of  mine.
 </p>
 
 <p>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=ynn1k" alt="Visitors Counter">
+  <ul>
+    <li>
+      Working on <u>too many</u> different things...
+    </li>
+    <li>
+      Side Fact: space enthusiast 🌌🚀
+    </li>
+  </ul>
+</p>
+
+<p>
+  I do it for the fun and for learning new things - be kind 🙏🏻
 </p>
 
 <!--
